@@ -1,5 +1,6 @@
 Calendar-UM-to-Google
 =====================
+##Usage
 Make sure you are running in linux environment with g++ and python
 Then run CreateIcs.sh
   
