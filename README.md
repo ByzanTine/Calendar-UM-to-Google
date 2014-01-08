@@ -1,5 +1,11 @@
 Calendar-UM-to-Google
 =====================
-Run CreateIcs.sh
+Make sure you are running in linux environment
+
+Then run CreateIcs.sh
+  
+    sh CreateIcs.sh
+    
 And import the schedule.ics
+
 
